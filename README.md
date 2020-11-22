@@ -1,6 +1,6 @@
 # freeCodeCampChallenges-Technical-Documentation-Page
 
-##FreeCodeCamp Responsive Web Design Projects Challenge - Technical-Documentation-Page
+## FreeCodeCamp Responsive Web Design Projects Challenge - Technical-Documentation-Page
 
 Link to challenge https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
 
